@@ -1,6 +1,6 @@
 {
   "name": "tooler-utility-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A Node.js CLI utility tool for file compression, string manipulation, and API fetching.",
   "main": "index.js",
   "bin": {
